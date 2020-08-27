@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.exe
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.deps.json
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.runtimeconfig.json
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.dll
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\bin\Debug\netcoreapp3.1\HolaMundo-master.pdb
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.dll
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.pdb
+C:\Users\DELL\Desktop\Programacion Aplicada 1\Aplicada por 2 ves\HolaMundo-master\obj\Debug\netcoreapp3.1\HolaMundo-master.genruntimeconfig.cache
